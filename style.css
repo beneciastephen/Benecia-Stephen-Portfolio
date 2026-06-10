@@ -312,7 +312,7 @@ button a {
 .projects h1 {
     display: flex;
     padding: 3.5rem 0 0.55rem;
-    margin-bottom: o;
+    margin-bottom: 0;
     justify-content: center;
 }
 .projects-item {
