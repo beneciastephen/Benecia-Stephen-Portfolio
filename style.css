@@ -297,7 +297,7 @@ button a {
 }
 .philosophy {
     display: grid;
-    grid-template-columns: 15rem 0.5rem 25rem;
+    grid-template-columns: 20rem 0.5rem 25rem;
     grid-template-rows: 10rem;
     align-items: center;
     justify-content: center;
