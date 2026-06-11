@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "beneciastephen-portfolio",
+    "public": "benecia-portfolio",
     "ignore": [
       "firebase.json",
       "**/.*",
